@@ -1,4 +1,5 @@
 # Quick notes for installation
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ojstewart/netrunnerdb?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 - Create a database in MySQL, in utf8_general_ci
 - Create a directory on your hard drive, we'll assume it's at $SYMFONY
